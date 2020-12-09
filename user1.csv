@@ -1,0 +1,40 @@
+﻿  support                                           itemsets
+0   0.454545                                      (party_dress)
+1   0.363636                                      (leather_bag)
+2   0.363636                                      (heels_shoes)
+3   0.090909                                       (gown_dress)
+4   0.272727                                    (summer_shoes )
+5   0.272727                                       (slim_dress)
+6   0.090909                                       (flat_shoes)
+7   0.181818                                     (salman_dress)
+8   0.272727                                       (blue_dress)
+9   0.090909                                        (purse_bag)
+"10  0.181818                         (leather_bag, party_dress)"
+"11  0.181818                         (party_dress, heels_shoes)"
+"12  0.090909                         (leather_bag, heels_shoes)"
+"13  0.090909            (party_dress, leather_bag, heels_shoes)"
+"14  0.090909                          (gown_dress, heels_shoes)"
+"15  0.090909                          (gown_dress, leather_bag)"
+"16  0.090909                          (gown_dress, party_dress)"
+"17  0.090909             (leather_bag, gown_dress, heels_shoes)"
+"18  0.090909             (party_dress, gown_dress, heels_shoes)"
+"19  0.090909             (party_dress, gown_dress, leather_bag)"
+"20  0.090909  (party_dress, leather_bag, gown_dress, heels_s..."
+"21  0.181818                       (summer_shoes , party_dress)"
+"22  0.090909                       (summer_shoes , leather_bag)"
+"23  0.090909          (summer_shoes , leather_bag, party_dress)"
+"24  0.090909                          (leather_bag, slim_dress)"
+"25  0.090909                          (slim_dress, heels_shoes)"
+"26  0.090909                           (slim_dress, flat_shoes)"
+"27  0.090909                         (salman_dress, slim_dress)"
+"28  0.090909                        (salman_dress, leather_bag)"
+"29  0.090909                         (blue_dress, salman_dress)"
+"30  0.090909                      (summer_shoes , salman_dress)"
+"31  0.090909            (salman_dress, leather_bag, slim_dress)"
+"32  0.090909          (blue_dress, salman_dress, summer_shoes )"
+"33  0.090909                          (blue_dress, heels_shoes)"
+"34  0.090909                          (blue_dress, leather_bag)"
+"35  0.090909                        (blue_dress, summer_shoes )"
+"36  0.090909                            (slim_dress, purse_bag)"
+"37  0.090909                           (heels_shoes, purse_bag)"
+"38  0.090909               (slim_dress, heels_shoes, purse_bag)"

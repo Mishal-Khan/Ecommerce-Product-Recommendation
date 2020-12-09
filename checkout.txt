@@ -1,0 +1,12 @@
+id	item1	item2	item3	item4
+1	heels_shoes	leather_bag	party_dress	gown_dress
+2	summer_shoes 		party_dress	
+3	heels_shoes		party_dress	
+4	flat_shoes			slim_dress
+5	summer_shoes 	leather_bag	party_dress	
+6		leather_bag	salman_dress	slim_dress
+7	heels_shoes			blue_dress
+8		leather_bag		blue_dress
+9	summer_shoes 		salman_dress	blue_dress
+10	heels_shoes	purse_bag		slim_dress
+11			party_dress	
